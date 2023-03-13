@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/773853222/HelloWorldAgain.iml" filepath="$PROJECT_DIR$/.idea/modules/773853222/HelloWorldAgain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldAgain.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
